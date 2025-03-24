@@ -8,7 +8,7 @@ Script purpose:
   - truncates the bronze tables before loading data
   - uses the bulk insert command to load data from csv filesto bronze tables
 
-parameters:
+arguments:
   none
 
 return:
